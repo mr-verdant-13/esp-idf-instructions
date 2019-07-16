@@ -14,7 +14,7 @@
 
 2.2. Enter de info regarding the ESP-IDF version that is prompted in the terminal.
 
-# Result:
+# **Result:**
 
 - The toolchain is installed on the `C:\` drive.
 - The `esp-idf` repository is cloned to the `C:\msys32\home` route.
