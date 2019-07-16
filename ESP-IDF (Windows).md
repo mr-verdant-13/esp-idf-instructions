@@ -1,5 +1,7 @@
 # **ESP-IDF installation (Windows)**
 
+This tutorial explains how to install the ESP-IDF on Windows to be used with [this project template for Visaul Studio Code](https://github.com/mr-verdant-13/esp-idf-vsc-template).
+
 ## **1. Toolchain setup**
 
 - **1.1.** Download the all-in-one toolchain from the [**Toolchain Setup**](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/windows-setup.html#toolchain-setup) section of the **ESP-IDF Programming Guide**:
