@@ -1,5 +1,7 @@
 # **Instalación del ESP-IDF (Windows & Makefile)**
 
+[English version](https://github.com/mr-verdant-13/esp-idf-instructions/blob/master/ESP-IDF%20installation/WinMakefileEN.md)
+
 ## **1. Montaje del toolchain**
 
 - **1.1.** Descargar el toolchain todo en uno desde la sección [**Toolchain Setup**](https://docs.espressif.com/projects/esp-idf/en/latest/get-started-legacy/windows-setup.html#toolchain-setup) del **ESP-IDF Programming Guide**:
