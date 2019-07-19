@@ -14,8 +14,11 @@ if %errorlevel% equ 2 (
     echo:Introduce the ESP-IDF version to be set.
     echo:Introduzca la version del ESP-IDF a ser instalada.
     set /p version=""
-    set version= -b !version!
+    set "version= -b !version!"
 )
+REM else (
+REM     set "version= -b v3.2.2"
+REM )
 cd /d "C:\msys32\home\"
 cls
 git clone%version% --recursive https://github.com/espressif/esp-idf.git
