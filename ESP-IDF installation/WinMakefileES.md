@@ -12,9 +12,11 @@
 
 ## **2. Montaje del ESP-IDF**
 
-- **2.1.** Ejecutar el archivo `EspIdfSetup.bat`.
+- **2.1.** Hacer clic derecho en [este link](https://raw.githubusercontent.com/mr-verdant-13/esp-idf-instructions/master/ESP-IDF%20installation/EspIdfSetup.bat) y luego cliquear en 'Guardar enlace como...' para guardar el archivo `EspIdfSetup.bat`.
 
-- **2.2.** Ingresar la información correspondiente a la versión del ESP-IDF.
+- **2.2.** Ejecutar el archivo `EspIdfSetup.bat`.
+
+- **2.3.** Ingresar la información correspondiente a la versión del ESP-IDF.
 
 # **Resultado:**
 

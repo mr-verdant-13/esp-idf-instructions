@@ -12,9 +12,11 @@
 
 ## **2. ESP-IDF setup**
 
-- **2.1.** Execute the `EspIdfSetup.bat` file.
+- **2.1.** Right-click on [this link](https://raw.githubusercontent.com/mr-verdant-13/esp-idf-instructions/master/ESP-IDF%20installation/EspIdfSetup.bat) and then click on 'Save link as...' to save the `EspIdfSetup.bat` file.
 
-- **2.2.** Enter de info regarding the ESP-IDF version.
+- **2.2.** Execute the `EspIdfSetup.bat` file.
+
+- **2.3.** Enter de info regarding the ESP-IDF version.
 
 # **Result:**
 
